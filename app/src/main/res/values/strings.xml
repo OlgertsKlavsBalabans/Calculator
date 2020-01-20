@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator_olgerts</string>
+    <string name="input_field_name"></string>
+    <string name="calculate">Calculate</string>
+    <string name="memory_save">MS</string>
+    <string name="memory_read">MR</string>
+    <string name="memory_clear">MC</string>
+    <string name="history_text"></string>
+
+</resources>
