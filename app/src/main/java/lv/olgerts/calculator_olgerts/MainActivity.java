@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
                         } else if (((timesSign > devideSign) && (devideSign > 0)) || ((devideSign > 0) && (timesSign <= 0))) { // devideSign is first
                             numbers = findNumbersOnBothSides(textInput, devideSign);
                             if (numbers[1][0] == 0) {
-                                newNumber = "+42";
+                                newNumber = "42";
                             } else {
                                 newNumber =Double.toString(numbers[0][0] / numbers[1][0]) ;
                             }
